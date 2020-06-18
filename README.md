@@ -1,2 +1,2 @@
-# Grido.css---Tiny-Grid-Framework
+# Grido.css - A Tiny Grid-Framework
 Grido - A css tiny grid framework
